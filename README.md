@@ -1,12 +1,12 @@
 ﻿# toPersianNumbers
 
-##Usage
+## Usage
 
 1- install package using npm i to-persian-numbers  
 2- require package in your project  
 3- use "toPersianNumbers(your-number)" to convert numbers
 
-##example
+## example
 ```javascript
 const convertNumbers = require("to-persian-numbers");
 
